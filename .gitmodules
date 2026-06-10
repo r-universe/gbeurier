@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/gbeurier/gbeurier.r-universe.dev
 	branch = HEAD
+[submodule "n4m"]
+	path = n4m
+	url = https://github.com/GBeurier/nirs4all-methods
+	subdir = bindings/r/n4m
+[submodule "pls4all"]
+	path = pls4all
+	url = https://github.com/GBeurier/nirs4all-methods
+	subdir = bindings/r/pls4all
