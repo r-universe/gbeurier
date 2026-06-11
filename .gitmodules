@@ -6,6 +6,18 @@
 	path = n4m
 	url = https://github.com/GBeurier/nirs4all-methods
 	subdir = bindings/r/n4m
+[submodule "nirs4allformats"]
+	path = nirs4allformats
+	url = https://github.com/GBeurier/nirs4all-formats
+	subdir = bindings/r/nirs4allformats
+[submodule "nirs4allformats.full"]
+	path = nirs4allformats.full
+	url = https://github.com/GBeurier/nirs4all-formats
+	subdir = bindings/r/nirs4allformatsfull
+[submodule "nirs4allio"]
+	path = nirs4allio
+	url = https://github.com/GBeurier/nirs4all-io
+	subdir = bindings/r
 [submodule "pls4all"]
 	path = pls4all
 	url = https://github.com/GBeurier/nirs4all-methods
