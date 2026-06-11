@@ -2,10 +2,22 @@
 	path = .registry
 	url = https://github.com/gbeurier/gbeurier.r-universe.dev
 	branch = HEAD
+[submodule "dagmldata"]
+	path = dagmldata
+	url = https://github.com/GBeurier/dag-ml-data
+	subdir = crates/dag-ml-data-r
 [submodule "n4m"]
 	path = n4m
 	url = https://github.com/GBeurier/nirs4all-methods
 	subdir = bindings/r/n4m
+[submodule "nirs4all"]
+	path = nirs4all
+	url = https://github.com/GBeurier/nirs4all-lite
+	subdir = bindings/r
+[submodule "nirs4alldatasets"]
+	path = nirs4alldatasets
+	url = https://github.com/GBeurier/nirs4all-datasets
+	subdir = bindings/r/nirs4alldatasets
 [submodule "nirs4allformats"]
 	path = nirs4allformats
 	url = https://github.com/GBeurier/nirs4all-formats
