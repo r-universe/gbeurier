@@ -5,6 +5,7 @@
 [submodule "dagmldata"]
 	path = dagmldata
 	url = https://github.com/GBeurier/dag-ml-data
+	branch = main
 	subdir = crates/dag-ml-data-r
 [submodule "n4m"]
 	path = n4m
