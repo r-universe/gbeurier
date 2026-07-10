@@ -14,6 +14,7 @@
 [submodule "nirs4all"]
 	path = nirs4all
 	url = https://github.com/GBeurier/nirs4all-core
+	branch = main
 	subdir = bindings/r
 [submodule "nirs4alldatasets"]
 	path = nirs4alldatasets
