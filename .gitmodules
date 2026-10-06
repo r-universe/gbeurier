@@ -23,7 +23,7 @@
 [submodule "nirs4alldatasets"]
 	path = nirs4alldatasets
 	url = https://github.com/GBeurier/nirs4all-datasets
-	branch = v0.3.8
+	branch = v0.3.10
 	subdir = bindings/r/nirs4alldatasets
 [submodule "nirs4allformats"]
 	path = nirs4allformats
