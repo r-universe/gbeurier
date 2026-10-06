@@ -5,11 +5,12 @@
 [submodule "dagml"]
 	path = dagml
 	url = https://github.com/GBeurier/dag-ml
+	branch = v0.3.37
 	subdir = bindings/r
 [submodule "dagmldata"]
 	path = dagmldata
 	url = https://github.com/GBeurier/dag-ml-data
-	branch = main
+	branch = v0.2.13
 	subdir = crates/dag-ml-data-r
 [submodule "n4m"]
 	path = n4m
@@ -27,10 +28,12 @@
 [submodule "nirs4allformats"]
 	path = nirs4allformats
 	url = https://github.com/GBeurier/nirs4all-formats
+	branch = v0.2.11
 	subdir = bindings/r/nirs4allformats
 [submodule "nirs4allio"]
 	path = nirs4allio
 	url = https://github.com/GBeurier/nirs4all-io
+	branch = v0.2.5
 	subdir = bindings/r
 [submodule "pls4all"]
 	path = pls4all
