@@ -5,7 +5,7 @@
 [submodule "dagml"]
 	path = dagml
 	url = https://github.com/GBeurier/dag-ml
-	branch = v0.3.40
+	branch = v0.3.41
 	subdir = bindings/r
 [submodule "dagmldata"]
 	path = dagmldata
