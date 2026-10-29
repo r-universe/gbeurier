@@ -20,6 +20,7 @@
 [submodule "nirs4all"]
 	path = nirs4all
 	url = https://github.com/GBeurier/nirs4all-r
+	branch = v0.7.3
 [submodule "nirs4alldatasets"]
 	path = nirs4alldatasets
 	url = https://github.com/GBeurier/nirs4all-datasets
