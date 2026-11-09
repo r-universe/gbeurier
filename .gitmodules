@@ -15,7 +15,7 @@
 [submodule "n4m"]
 	path = n4m
 	url = https://github.com/GBeurier/nirs4all-methods
-	branch = main
+	branch = 41b5d4e02e2574a94cd9dad6fcfa6269573b5eed
 	subdir = bindings/r/n4m
 [submodule "nirs4all"]
 	path = nirs4all
@@ -29,7 +29,7 @@
 [submodule "nirs4allformats"]
 	path = nirs4allformats
 	url = https://github.com/GBeurier/nirs4all-formats
-	branch = 98d3daca831b54ba618d93ec50c8183578c4d1fd
+	branch = fd3e958802a823eb528538e2b0ed357a0e232e54
 	subdir = bindings/r/nirs4allformats
 [submodule "nirs4allio"]
 	path = nirs4allio
@@ -39,5 +39,5 @@
 [submodule "pls4all"]
 	path = pls4all
 	url = https://github.com/GBeurier/nirs4all-methods
-	branch = v1.3.14
+	branch = 41b5d4e02e2574a94cd9dad6fcfa6269573b5eed
 	subdir = bindings/r/pls4all
